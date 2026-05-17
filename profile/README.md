@@ -30,7 +30,7 @@ QIEKN GAMES 是一个长期筹备项目。
 
 > 利用闲暇时间，不设目标，任由想法蔓延。顺带一提，我的电脑非常棒，可以同时安装 neovim, emacs, vs2022, vscode，JetBrains IDEs，也可以同时安装 CryENGINE, Unreal Engine, Unity, Godot, Raylib。
 
-这里的一切，都是为了我最终开始的那一刻做准备。
+一切都是为了最终启动独立游戏开发的那一刻。
 
 九年后再见
 
